@@ -35,7 +35,7 @@ This is a donation app built using Flask and Jinja2 templating engine. The app a
 5. Run the application:
 
     ```bash
-    python app.py
+    python app.py or python3 app.py for linux users
     ```
 
 ## Usage
