@@ -4,10 +4,6 @@
 
 This is a donation app built using Flask and Jinja2 templating engine. The app allows users to make donations to various causes and charities. It provides a user-friendly interface for browsing causes, making donations, and tracking donation history.
 
-- [Deployed Site](#) (Add link to your deployed site)
-- [Final Project Blog Article](#) (Link to your final project blog article)
-- [Author(s) LinkedIn](#) (Link to author(s) LinkedIn profiles)
-
 ## Installation
 
 1. Clone the repository:
