@@ -9,7 +9,7 @@ This is a donation app built using Flask and Jinja2 templating engine. The app a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nzioka6350/Build-your-portfolio-project.git
+    git clone https://github.com/Nzioka6350/Webstack---Portfolio-Project.git
     ```
 
 2. Navigate to the project directory:
