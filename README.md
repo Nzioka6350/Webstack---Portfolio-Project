@@ -1,5 +1,3 @@
-Here's an improved version of the README.md for your donation app project:
-
 # Donation App using Flask and Jinja2
 
 ## Introduction
