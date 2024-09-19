@@ -15,7 +15,7 @@ app = Flask(__name__,static_url_path='/assets',
 
 @app.route('/') # Define route for root URL
 def root():
-   session['logged_out']= 1
+   session['logged_out']= 1 # Set logged_out session variable
    return render_template('index.html')
 
 @app.route('/index.html')
