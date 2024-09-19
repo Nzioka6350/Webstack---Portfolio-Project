@@ -73,7 +73,7 @@ def register():
         print("User not found, register new user")
         user_exists=0
         cur.execute("INSERT INTO Users (Name,Email,Password,Contact) VALUES (?,?,?,?)",(nm,email,password,contact) )
-        
+     # Render login template
   return render_template('login.html',user_exists=user_exists, invalid = None, logged_out=None)
 
 
