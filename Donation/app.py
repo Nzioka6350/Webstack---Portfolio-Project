@@ -23,6 +23,7 @@ def root():
 def index():
    return render_template('index.html')
 
+# Define route for header page
 @app.route('/header_page.html')
 def header_page():
    return render_template('header_page.html')
