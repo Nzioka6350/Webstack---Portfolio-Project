@@ -13,7 +13,7 @@ app = Flask(__name__,static_url_path='/assets',
             static_folder='assets', 
             template_folder='./')
 
-@app.route('/')
+@app.route('/') # Define route for root URL
 def root():
    session['logged_out']= 1
    return render_template('index.html')
