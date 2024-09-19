@@ -18,6 +18,7 @@ def root():
    session['logged_out']= 1 # Set logged_out session variable
    return render_template('index.html')
 
+# Define route for index.html page
 @app.route('/index.html')
 def index():
    return render_template('index.html')
