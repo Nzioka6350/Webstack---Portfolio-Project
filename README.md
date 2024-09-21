@@ -25,7 +25,6 @@ This is a donation app built using Flask and Jinja2 templating engine. The app a
     ```
 
 4. Set up environment variables:
-
     ```bash
     cp .env.example .env
     ```
