@@ -15,7 +15,7 @@ This is a donation app built using Flask and Jinja2 templating engine. The app a
 2. Navigate to the project directory:
 
     ```bash
-    cd donation
+    cd Webstack---Portfolio-Project
     ```
 
 3. Install dependencies:
